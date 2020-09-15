@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.exe.config
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.exe
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.pdb
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.studentStructureForm.resources
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.exe
+C:\Users\Kabrina\Documents\C#\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\bin\Debug\StudentStructureBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.studentStructureForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\StudentStructureBrady\StudentStructureBrady\obj\Debug\StudentStructureBrady.pdb
